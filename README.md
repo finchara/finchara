@@ -11,6 +11,8 @@ Systems & network security: Builds, secures, and breaks things (on purpose, with
 ### What I do
 
 By day, I set up and secure systems and networks. Outside that, I'm building **[Finchara](https://finchara.com)**: Security awareness training for small/medium businesses and schools (phishing awareness, social media safety, password hygiene, online etiquette).
+<br><br>
+For more info, see [Published CVE's](https://github.com/finchara/Published-CVEs).
 
 > *"Spot it. Report it. Protect the flock."*
 
