@@ -22,7 +22,8 @@ Currently bug hunting against real-world threats; manual source-code audits, not
 
 ### Currently learning
 
-OSINT and social engineering, as well as climbing up the ladder in cybersecurity.
+OSINT and social engineering, as well as climbing up the ladder in cybersecurity.<br>
+Mainly focusing on Blue Team Hacking/ DFIR through [CyberDefenders](htps://cyberdefenders.org).
 
 ---
 
